@@ -1,4 +1,4 @@
- Desafios_portugol_1
+                                                  Desafios_portugol
 
-#exercício função para(for)
-#vetores
+- Exercício função para(for)
+- Vetores
